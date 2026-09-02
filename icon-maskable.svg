@@ -1,0 +1,24 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Full bleed background - no rounded corners for maskable -->
+  <rect width="512" height="512" fill="#2D6A4F"/>
+  <!-- Content scaled to 80% and centered (40px padding each side at 512) -->
+  <g transform="translate(51.2, 51.2) scale(0.8)">
+    <rect x="295" y="110" width="47" height="95" rx="6" fill="#1B4332"/>
+    <polygon points="256,85 88,258 424,258" fill="#1B4332"/>
+    <rect x="132" y="240" width="248" height="160" rx="14" fill="#FAFAF5"/>
+    <rect x="152" y="274" width="72" height="64" rx="10" fill="#A8D8C0"/>
+    <line x1="188" y1="274" x2="188" y2="338" stroke="#2D6A4F" stroke-width="4"/>
+    <line x1="152" y1="306" x2="224" y2="306" stroke="#2D6A4F" stroke-width="4"/>
+    <rect x="288" y="274" width="72" height="64" rx="10" fill="#A8D8C0"/>
+    <line x1="324" y1="274" x2="324" y2="338" stroke="#2D6A4F" stroke-width="4"/>
+    <line x1="288" y1="306" x2="360" y2="306" stroke="#2D6A4F" stroke-width="4"/>
+    <rect x="224" y="338" width="64" height="62" rx="12" fill="#B5830A"/>
+    <circle cx="281" cy="372" r="7" fill="#2D6A4F"/>
+    <rect x="80" y="404" width="352" height="56" rx="16" fill="#1B4332"/>
+    <polyline points="96,445 148,430 210,436 276,420 340,408 416,424" fill="none" stroke="#D4A020" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="148" cy="430" r="8" fill="#D4A020"/>
+    <circle cx="276" cy="420" r="8" fill="#D4A020"/>
+    <circle cx="340" cy="408" r="10" fill="white"/>
+    <circle cx="340" cy="408" r="5" fill="#D4A020"/>
+  </g>
+</svg>
